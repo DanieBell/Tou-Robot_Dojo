@@ -4,3 +4,6 @@
 [submodule "docs/themes/hugo-book"]
 	path = docs/themes/hugo-book
 	url = https://github.com/alex-shpak/hugo-book
+[submodule "docs/themes/docura"]
+	path = docs/themes/docura
+	url = https://github.com/docura/docura.git
